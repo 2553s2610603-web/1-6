@@ -1,6 +1,3 @@
-import streamlit as st
-st.title('밥먹고싶다')
-st.write('집가고싶다')
 st.write("키와 몸무게를 입력하면 BMI를 계산해드립니다.")
 
 # 입력
@@ -38,5 +35,3 @@ if st.button("BMI 계산하기"):
     st.write("4. 채소와 과일 자주 먹기")
     st.write("5. 물 충분히 마시기")
 3. 실행 방법
-
-터미널에서 실행:
